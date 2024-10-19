@@ -69,9 +69,6 @@ To further enhance the system:
 Use HD cameras: Higher quality images will improve the accuracy of OCR and object detection models.
 Model Expansion: The system can be extended to incorporate more categories and models for other e-commerce use cases.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 Contact
 For any questions or issues:
 
